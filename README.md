@@ -28,7 +28,7 @@ Experiência prática na criação de interfaces modernas, funcionais e voltadas
 
 ## Projetos
 
-* Geekverse — Plataforma interativa com foco em experiência do usuário
+* Geekverse  Plataforma interativa com foco em experiência do usuário
 * Portfólio profissional
 * Projetos com animações em CSS
 * Interfaces e templates web
