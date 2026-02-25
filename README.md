@@ -1,7 +1,7 @@
 <h1 align="center">Adeildo Cunha</h1>
 
 <p align="center">
-Desenvolvedor de Software • ADS • Engenharia de Software
+Desenvolvedor • ADS • Engenharia de Software (cursando)
 </p>
 
 ---
